@@ -1,0 +1,6 @@
+interface:
+  display_name: "Chicago Student Paper"
+  short_description: "Create English Chicago-style assignments and reports"
+  default_prompt: "Use $chicago-student-report to create an English Chicago-style assignment template."
+policy:
+  allow_implicit_invocation: true
